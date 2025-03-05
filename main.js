@@ -44,5 +44,18 @@ const kanjiWords = [
     { "id": 789, "kanji": "確認", "hiragana": "かくにん", "meaning": "Sự xác nhận" },
     { "id": 790, "kanji": "認める", "hiragana": "みとめる", "meaning": "Chấp nhận, cho phép" },
     { "id": 791, "kanji": "飛行場", "hiragana": "ひこうじょう", "meaning": "Sân bay" },
-    { "id": 792, "kanji": "飛ぶ", "hiragana": "とぶ", "meaning": "Bay" }
+    { "id": 792, "kanji": "飛ぶ", "hiragana": "とぶ", "meaning": "Bay" },
+    { "id": 793, "kanji": "非常", "hiragana": "ひじょう", "meaning": "Khẩn cấp, cấp bách" },
+    { "id": 794, "kanji": "非常口", "hiragana": "ひじょうぐち", "meaning": "Cửa thoát hiểm" },
+    { "id": 795, "kanji": "非常に", "hiragana": "ひじょうに", "meaning": "Rất, cực kỳ" },
+    { "id": 796, "kanji": "日常", "hiragana": "にちじょう", "meaning": "Thường ngày, hằng ngày" },
+    { "id": 797, "kanji": "正常", "hiragana": "せいじょう", "meaning": "Bình thường" },
+    { "id": 798, "kanji": "階", "hiragana": "かい", "meaning": "Tầng..." },
+    { "id": 799, "kanji": "階段", "hiragana": "かいだん", "meaning": "Cầu thang" },
+    { "id": 800, "kanji": "段", "hiragana": "だん", "meaning": "Bậc, đoạn, giai đoạn" },
+    { "id": 801, "kanji": "箱", "hiragana": "はこ", "meaning": "Cái hộp" },
+    { "id": 802, "kanji": "ごみ箱", "hiragana": "ごみばこ", "meaning": "Thùng rác" },
+    { "id": 803, "kanji": "危険", "hiragana": "きけん", "meaning": "Nguy hiểm" },
+    { "id": 804, "kanji": "危ない", "hiragana": "あぶない", "meaning": "Nguy hiểm, nguy cấp" },
+    { "id": 805, "kanji": "捨てる", "hiragana": "すてる", "meaning": "Vứt bỏ, ném đi" }
 ];
