@@ -4,8 +4,8 @@ const menuItems = [
         icon: "fas fa-language",
         show: true,
         submenu: [
-            { label: "FlashCard", href: "/pages/japanese/flashcard.html", icon: "fas fa-clone" },
-            { label: "Marugoto", href: "/pages/japanese/marugoto.html", icon: "fas fa-journal-whills" },
+            { label: "FlashCard", href: "/StudynResearch/pages/japanese/flashcard.html", icon: "fas fa-clone" },
+            { label: "Marugoto", href: "/StudynResearch/pages/japanese/marugoto.html", icon: "fas fa-journal-whills" },
         ],
     },
     {
