@@ -1,6 +1,6 @@
   function createFlower() {
     const flower = document.createElement("img");
-    flower.src = "/images/flower.png"; // đường dẫn ảnh hoa
+    flower.src = "/StudynResearch/images/flower.png"; // đường dẫn ảnh hoa
     flower.className = "flower";
 
     const size = Math.random() * 50 + 50; // kích thước 20–40px
