@@ -13,8 +13,15 @@
 </head>
 <body>
   <!-- Sidebar -->
-     <!-- Nút toggle sidebar (chỉ hiện trên mobile) -->
-     <button class="btn d-lg-none" id="toggleSidebarBtn">
+  <div id="sidebar">
+    <div class="p-3 border-bottom d-flex align-items-center fw-bold">
+      <i class="fa-solid fa-bars me-2 d-lg-none" id="closeSidebarBtn" style="cursor: pointer"></i>
+      <span></span>
+    </div>
+  </div>
+  <nav class="navbar navbar-light bg-light px-3">
+    <!-- Nút toggle sidebar (chỉ hiện trên mobile) -->
+    <button class="btn d-lg-none" id="toggleSidebarBtn">
       <i class="fas fa-bars"></i>
     </button>
 
